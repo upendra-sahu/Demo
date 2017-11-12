@@ -42,7 +42,7 @@
 	</dependencies>
 
 	<build>
-	 <finalName>SpringBootStarter</finalName>
+	 <finalName>SpringBootStarter1</finalName>
 		<plugins>
 			<plugin>
 				<groupId>org.springframework.boot</groupId>
