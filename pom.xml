@@ -42,7 +42,7 @@
 	</dependencies>
 
 	<build>
-	 <finalName>SpringBootStarter_Upe</finalName>
+	 <finalName>SpringBootStarter</finalName>
 		<plugins>
 			<plugin>
 				<groupId>org.springframework.boot</groupId>
